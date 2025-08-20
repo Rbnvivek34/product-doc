@@ -1,0 +1,27 @@
+@import 'default';
+
+section {
+  font-family: 'Segoe UI', sans-serif;
+  color: #1e293b; /* slate gray */
+}
+
+h1 {
+  color: #2563eb; /* blue */
+}
+
+h2 {
+  color: #16a34a; /* green */
+}
+
+code {
+  background: #f1f5f9;
+  padding: 4px 6px;
+  border-radius: 6px;
+  font-size: 0.9em;
+}
+
+footer {
+  color: #64748b;
+  font-size: 0.7em;
+  text-align: center;
+}
