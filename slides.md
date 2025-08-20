@@ -1,7 +1,7 @@
 ---
 marp: true
 title: Product Documentation Presentation
-author: Vivek R B
+author: Vivek
 theme: custom
 paginate: true
 ---
