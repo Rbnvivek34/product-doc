@@ -27,7 +27,7 @@ Email: 22f2001699@ds.study.iitm.ac.in
 ---
 
 <!-- Background image -->
-![bg cover](images/bg.jpg)
+![bg cover](bg.jpg)
 
 # 🚀 Introduction
 
